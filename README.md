@@ -4,7 +4,7 @@
 
 github classroom経由でリポジトリ作成し，クローン。
 
-https://classroom.github.com/a/DvY8lWf_
+(https://classroom.github.com/a/DvY8lWf_)[https://classroom.github.com/a/DvY8lWf_]
 
 Problemフォルダに入っているものを解いてみよう+実行して変数を変えてみよう。  
 
